@@ -30,7 +30,7 @@ parse:
     #- substitution
 
 repository:
-  url: https://github.com/kyleniemeyer/gas-dynamics-notes
+  url: https://umerm01.github.io/gas-dynamics.io/
   branch: main
 
 html:

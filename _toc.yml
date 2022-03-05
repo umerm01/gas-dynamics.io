@@ -1,0 +1,23 @@
+format: jb-book
+root: intro
+parts:
+- caption: Introduction and review
+  chapters:
+  - file: intro/review-thermo
+  - file: intro/control-volume-analysis
+  - file: intro/stagnation
+- caption: Compressible flows
+  chapters:
+  - file: compressible-flows/intro-compressible-flow
+  - file: compressible-flows/isentropic
+  - file: compressible-flows/nozzles-part1
+  - file: compressible-flows/normal-shocks
+  - file: compressible-flows/oblique-shocks
+  - file: compressible-flows/prandtl-meyer
+  - file: compressible-flows/friction
+  - file: compressible-flows/heat-transfer
+  - file: compressible-flows/multiple-effects
+  - file: compressible-flows/method-characteristics
+- caption: Reference
+  chapters:
+  - file: zbibliography
